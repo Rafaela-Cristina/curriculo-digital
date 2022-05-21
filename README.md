@@ -1,2 +1,2 @@
-# curriculo-digital
+# Curriculo-digital
  Currículo digital Rafaela
